@@ -1,0 +1,15 @@
+# Web Crawler
+playwright
+requests
+
+# Logging
+loguru
+
+# Data Processing
+pyspark==3.5.3
+
+# Search Index
+whoosh
+
+# Utilities
+tiktoken

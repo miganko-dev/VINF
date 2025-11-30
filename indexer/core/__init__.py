@@ -1,0 +1,1 @@
+"""Indexer Core Module."""
